@@ -11,7 +11,7 @@ The designs were created to the following widths:
 
 ## Colors
 
-- Yellow: hsl(47, 88%, 63%)
+- Yellow: hsla(47, 88%, 63%, 1.00)
 
 - White: hsl(0, 0%, 100%)
 
