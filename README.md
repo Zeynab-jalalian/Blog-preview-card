@@ -1,9 +1,6 @@
 # Frontend Mentor - Blog preview card
 
-![Design preview for the Blog preview card coding challenge]()
-
-This is a solution to the [Social links profile on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).  
-
+![Design preview for the Blog preview card coding challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 
 ![Design preview for the Recipe page coding challenge](picc.png)
 
