@@ -20,6 +20,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 }
 .card {
   width: 384px;
@@ -111,17 +112,28 @@ body {
   font-family: "Figtree", sans-serif;
   font-weight: 800;
 }
-@media (max-width:375px){
-    .card{
-        width: 327px;
-    }
-    .badge,.date{
-        font-size: 12px;
-    }
-    .category{
-        font-size: 20px;
-    }
-    .content p{
-        font-size: 14px;
-    }
+footer{
+    margin-top: 100px;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(0, 100%, 50%);
+}
+@media (max-width: 375px) {
+  .card {
+    width: 327px;
+  }
+  .badge,
+  .date {
+    font-size: 12px;
+  }
+  .category {
+    font-size: 20px;
+  }
+  .content p {
+    font-size: 14px;
+  }
 }
