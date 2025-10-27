@@ -79,3 +79,22 @@ body {
   font-family: "Figtree", sans-serif;
   font-weight: 500;
 }
+.author {
+  width: 129px;
+  height: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+.author img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.author h2{
+    font-size: 14px;
+    font-family: "Figtree", sans-serif;
+  font-weight: 800;
+}
