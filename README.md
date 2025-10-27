@@ -1,8 +1,6 @@
 # Frontend Mentor - Blog preview card
 
-![Design preview for the Blog preview card coding challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
-
-![Design preview for the Recipe page coding challenge](picc.png)
+![Design preview for the Recipe page coding challenge](screencapture-zeynab-jalalian-github-io-Blog-preview-card-2025-10-27-13_27_48.png)
 
 ## Welcome! 👋
 
